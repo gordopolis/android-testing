@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Hello, L10N</string>
+    <string name="app_name">Hello, L10N Bob</string>
     <string name="text_a">Shall I compare thee to a summer"'"s day?</string>
     <string name="text_b">Thou art more lovely and more temperate.</string>
     <string name="dialog_title">No Localisation</string>
